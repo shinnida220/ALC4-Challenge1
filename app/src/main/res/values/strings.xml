@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FiveDayChallenge</string>
+    <string name="activity_main_title">ALC 4 Phase 1</string>
+
+    <!-- Main Activity -->
+    <string name="header_text">Welcome to ALC 4.0</string>
+    <string name="btn_about_text">ABOUT ALC</string>
+    <string name="btn_myprofile_text">MY PROFILE</string>
+
+    <!-- About Activity -->
+    <string name="activity_about_title">About ALC</string>
+    <string name="alc_about_url">https://andela.com/alc/</string>
+
+
+    <!-- Profile Activity -->
+    <string name="activity_profile_title">My Profile</string>
+    <string name="developer_name">Emmanuel Ibikunle</string>
+    <string name="track_label">Track: </string>
+    <string name="track_text">Android</string>
+    <string name="country_label">Country: </string>
+    <string name="country_text">Nigeria</string>
+    <string name="email_label">Email: </string>
+    <string name="email_text">ibk.com@gmail.com</string>
+    <string name="phone_label">Phone Number: </string>
+    <string name="phone_text">234 806 064 2491</string>
+    <string name="slack_label">Slack Username: </string>
+    <string name="slack_text">\@Nuel Ibikunle</string>
+</resources>
